@@ -4,12 +4,12 @@ image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
 # UI configs
-title: "Photography by Ram Patra"
+title: "Photography by keeto"
 subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+author: "hustic"
 header:
  title: "Photography"
- subtitle: "by Ram Patra"
+ subtitle: "by keeto"
 footer:
  name: "Hey there, my name is Ram"
  bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
