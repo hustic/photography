@@ -1,7 +1,7 @@
 {
   "name": "photography",
   "version": "3.0.0",
-  "description": "A jekyll website for photographer cum developer",
+  "description": "keeto",
   "main": "npmfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,8 @@
     "template",
     "website template",
     "portfolio",
-    "portfolio website"
+    "portfolio website",
+    "keeto"
   ],
   "author": "Ram Patra",
   "license": "MIT",

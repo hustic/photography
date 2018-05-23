@@ -4,12 +4,12 @@ image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
 # UI configs
-title: "Photography by keeto"
-subtitle: "See the world through my eyes!"
+title: "keeto"
+subtitle: ""
 author: "hustic"
 header:
- title: "Photography"
- subtitle: "by keeto"
+ title: ""
+ subtitle: ""
 social_urls:
   facebook: "https://www.facebook.com/ramswaroop"
   twitter: "https://www.twitter.com/ramswarooppatra"
